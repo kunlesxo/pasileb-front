@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { Search, Filter, ChevronUp, ChevronDown, Heart, ShoppingCart, X, Plus, Minus, Trash2, ArrowLeft, CreditCard, Calendar, Clock, User, Phone, Mail, MapPin, MessageSquare, ArrowRight } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
 import chocoCake from "../assets/chocolate.jpg";
 import chinchin from "../assets/chinchin.jpg";
 import vanilla from "../assets/vanilla.jpg";
